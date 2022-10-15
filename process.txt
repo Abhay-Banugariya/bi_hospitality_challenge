@@ -1,0 +1,6 @@
+1 trf csv to database for dynamic use
+2 created month in fact aggregated bookings using power query
+3 created measures as mentioned
+4 used countx, avg, divide and sum for all measures
+5 <a href="https://www.freepik.com/free-photo/green-paint-brush-textured-background_15665222.htm#page=2&query=dashboard%20background&position=46&from_view=keyword">Image by rawpixel.com</a> on Freepik
+6 https://youtu.be/o1aBWfubjj8
